@@ -1,0 +1,10 @@
+{
+  "name": "HTTPSWebSite",
+  "version": "0.0.0",
+  "description": "HTTPSWebSite",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel Minor",
+    "email": ""
+  }
+}
